@@ -7,12 +7,7 @@ cd backend
 npm install
 ```
 
-Create `backend/.env` file:
-```
-PORT=3001
-JULES_API_KEY=your_actual_api_key_here
-JULES_API_URL=https://api.jules.ai/v1/chat/completions
-```
+
 
 Start backend:
 ```bash
