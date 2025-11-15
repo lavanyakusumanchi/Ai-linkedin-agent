@@ -52,12 +52,7 @@ cd backend
 npm install
 ```
 
-Configure your environment variables in `backend/.env`:
-```
-PORT=3001
-JULES_API_KEY=your_api_key_here
-JULES_API_URL=https://api.jules.ai/v1/chat/completions
-```
+
 
 Start the backend server:
 ```bash
